@@ -1,3 +1,3 @@
 # Gallery-Images
-Gallery of Images Generated using GENERATIVE ARTIFICIAL INTELLIGENCE
+Gallery of Images Generated using GenAI
 
